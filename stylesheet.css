@@ -13,6 +13,7 @@ body {
 .header-logo {
     float: left;
     padding: 20px 40px;
+    font-size:25px;
 }
 
 li {
@@ -23,10 +24,16 @@ li {
 
 .main {
     
-    height: 2000px;
+    height: auto;
+    width: 100%;
+    background-color: antiquewhite;
 }
 
 .footer {
     background-color: blueviolet;
     height: 150px; 
+}
+
+img {
+    width: 90%;
 }
