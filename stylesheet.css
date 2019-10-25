@@ -25,7 +25,7 @@ li {
 .main {    
     height: auto;
     width: 100%;
-    background-color: antiquewhite;
+    background-color:aqua;
 }
 
 .footer {
@@ -33,10 +33,3 @@ li {
     height: 150px; 
 }
 
-img.himawari {
-    width:50%;
-}
-
-img.190729 {
-    width:50%;
-}
